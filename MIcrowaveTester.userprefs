@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MIcrowaveTester/MIcrowaveTesterViewController.cs">
+    <Files>
+      <File FileName="MIcrowaveTester/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="MIcrowaveTester/MIcrowaveTesterViewController.cs" Line="38" Column="3" />
+      <File FileName="MicrowaveCore/reachability.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MicrowaveDriod" expanded="True" />
+          <Node name="MIcrowaveTester" expanded="True">
+            <Node name="MIcrowaveTesterViewController.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MicrowaveDriod MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>

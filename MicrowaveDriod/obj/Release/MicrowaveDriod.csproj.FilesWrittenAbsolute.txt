@@ -1,0 +1,1 @@
+/Users/andrewditmer/Projects/MIcrowaveTester/MicrowaveDriod/obj/Release/MonoAndroid,Version=v4.3.AssemblyAttribute.cs
